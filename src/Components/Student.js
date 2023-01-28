@@ -3,7 +3,6 @@ import StudentDetails from './StuData';
 import './Student.css';
 
 import {Link} from 'react-router-dom';
-import Edit from './Edit';
 // import {Link} from 'react-router-dom'
 
 const Student=()=>{
