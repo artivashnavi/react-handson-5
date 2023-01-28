@@ -1,7 +1,6 @@
 import React,{useState,useEffect} from 'react';
 import StudentDetails from './StuData';
-import {Link,useNavigate} from 'react-router-dom';
-import {v4 as uuid} from 'uuid';
+import {useNavigate} from 'react-router-dom';
 import './Add.css'
 // uuid(universal unique identifier) is a 128-bit number used to 
 //uniquely identify some objector entity on the internet
